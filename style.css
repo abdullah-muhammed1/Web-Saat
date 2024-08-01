@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item{
+    transition: all 0.1s;
+}
+.nav-item :hover{
+    text-decoration: underline;
+    color: black;
+}
+.content{
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.content3{
+    background-color: #E9C89E;
+    padding-top: 100px;
+    padding-right: 170px;
+    padding-left: 100px;
+}
+.icerik{
+    padding-left: 100px;
+}
+.img4{
+  
+}
+.gg{
+    background-image: url("images/bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    opacity: 0.9;
+}
+.fot a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    
+}
+.fot,.ff{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.ff a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar-brand{
+    padding-left: 150px;
+}
